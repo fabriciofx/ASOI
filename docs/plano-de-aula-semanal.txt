@@ -1,0 +1,23 @@
+Aula 1	
+  - Instalação do Windows Server 2022
+  - Tipos de Instalação
+Aula 2		
+  - Famílias de sistemas operacionais. Sistema (compatibilidade de hardware e software);
+  - Arquitetura de um sistema operacional servidor;
+  - Arquitetura de rede do sistema operacional servidor Windows;
+Aula 3		
+  - Sistema de Arquivo;
+  - Protocolos suportados pelo sistema operacional;
+Aula 4	
+  - Serviços de rede disponibilizados;
+  - Ferramentas de sistemas operacionais para administração, segurança e backup;
+Aula 5	
+  - Ativação de servidor web, DNS e FTP;
+Aula 6		
+  - Servidores de arquivos;
+  - Servidores de roteamento: dial-up VPN;
+Aula 7		
+  - Diretivas de acesso remoto;
+  - Recursos de impressão;
+  - Manutenção de usuários e grupos de usuários;
+  - Servidor DHCP.
