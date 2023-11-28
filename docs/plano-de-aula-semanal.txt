@@ -16,8 +16,8 @@ Aula 5
 Aula 6		
   - Servidores de arquivos;
   - Servidores de roteamento: dial-up VPN;
-Aula 7		
   - Diretivas de acesso remoto;
+Aula 7		
   - Recursos de impressão;
   - Manutenção de usuários e grupos de usuários;
   - Servidor DHCP.
