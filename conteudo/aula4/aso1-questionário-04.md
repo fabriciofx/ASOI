@@ -58,7 +58,7 @@ Atividade: Questionário nº 04
 
    Resposta: A
 
-7. O Server Manager não possui a capacidade de listas todas as pastas compartilhadas de servidores remotos de um domínio
+7. O Server Manager não possui a capacidade de listar todas as pastas compartilhadas de servidores remotos de um domínio
    
    A) Verdadeiro
    B) Falso
