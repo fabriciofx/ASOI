@@ -30,24 +30,14 @@ img[alt~="center"] {
 
 ## Horário de Tutoria
 
-|       | Segunda | Terça | Quarta | Quinta | Sexta |
-|-------|---------|-------|--------|--------|-------|
-| Manhã |         |       |        |        |       |
-| Tarde |         |  14h  |  14h   |        |       |
-| Noite |         |       |        |        |       |
-
+- Consulte o AVEA
+  
 ---
 
 ## Calendário
 
-| Evento                     |  Data                   |
-|----------------------------|-------------------------|
-| Encontro Presencial (EP)   | 11/11/2023              |
-| Encontro Web Conferência   | 09/12/2023              |
-| Avaliação Presencial (AP)  | 16/12/2023              |
-| 2ª Chamada Presencial      | 23/12/2023              |
-| Exame Final Presencial     | 30/12/2023              |
-
+- Consulte o AVEA
+  
 ---
 
 ## Ementa
@@ -124,7 +114,7 @@ Obs.: De acordo com a Organização Acadêmica, Art. 144 – Parágrafo Único: 
 
 $$Media → ME = NATD + NAP$$
 
-Caso ME ≥ 7,0, o/a estudante estará aprovado/a.
+Caso ME ≥ 6,0, o/a estudante estará aprovado/a.
 
 ---
 
@@ -188,7 +178,7 @@ X - força maior.*
 
 ## Exame Final
 
-- Caso o estudante obtenha média maior ou igual a 2,0  (dois) e menor que 7,0 (sete), estará automaticamente na final;
+- Caso o estudante obtenha média maior ou igual a 2,0 (dois) e menor que 6,0 (seis), estará automaticamente na final;
 - A Média Final para aprovação é 6,0 e é calculada da seguinte forma:
 
 $$ MF = \frac{ME + NEF}{2} $$
